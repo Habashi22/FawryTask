@@ -1,0 +1,14 @@
+E:\ITI visual\Fawry Task\Fawry-Task\Fawry-Task\obj\Debug\net8.0\Fawry-Task.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITI visual\Fawry Task\Fawry-Task\Fawry-Task\obj\Debug\net8.0\Fawry-Task.AssemblyInfoInputs.cache
+E:\ITI visual\Fawry Task\Fawry-Task\Fawry-Task\obj\Debug\net8.0\Fawry-Task.AssemblyInfo.cs
+E:\ITI visual\Fawry Task\Fawry-Task\Fawry-Task\obj\Debug\net8.0\Fawry-Task.csproj.CoreCompileInputs.cache
+E:\ITI visual\Fawry Task\Fawry-Task\Fawry-Task\bin\Debug\net8.0\Fawry-Task.exe
+E:\ITI visual\Fawry Task\Fawry-Task\Fawry-Task\bin\Debug\net8.0\Fawry-Task.deps.json
+E:\ITI visual\Fawry Task\Fawry-Task\Fawry-Task\bin\Debug\net8.0\Fawry-Task.runtimeconfig.json
+E:\ITI visual\Fawry Task\Fawry-Task\Fawry-Task\bin\Debug\net8.0\Fawry-Task.dll
+E:\ITI visual\Fawry Task\Fawry-Task\Fawry-Task\bin\Debug\net8.0\Fawry-Task.pdb
+E:\ITI visual\Fawry Task\Fawry-Task\Fawry-Task\obj\Debug\net8.0\Fawry-Task.dll
+E:\ITI visual\Fawry Task\Fawry-Task\Fawry-Task\obj\Debug\net8.0\refint\Fawry-Task.dll
+E:\ITI visual\Fawry Task\Fawry-Task\Fawry-Task\obj\Debug\net8.0\Fawry-Task.pdb
+E:\ITI visual\Fawry Task\Fawry-Task\Fawry-Task\obj\Debug\net8.0\Fawry-Task.genruntimeconfig.cache
+E:\ITI visual\Fawry Task\Fawry-Task\Fawry-Task\obj\Debug\net8.0\ref\Fawry-Task.dll
